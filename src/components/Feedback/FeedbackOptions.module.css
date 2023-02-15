@@ -1,0 +1,14 @@
+.feedbackBtn {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+button {
+    padding: 5px 20px;
+    font-size: 18px;
+}
+
+p {
+    font-size: 18px;
+}
